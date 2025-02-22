@@ -19,9 +19,9 @@ Para cualquier consulta, inquietud o solicitud relacionada con esta Política de
 * **Correo Electrónico:** scribette.app@gmail.com
 * **Número de Teléfono (WhatsApp):** +57 317 1748056
 * **Redes Sociales:**
-    * **Facebook:** https://www.facebook.com/profile.php?id=61569466052409
-    * **Instagram:** https://www.instagram.com/scribette.apponline/
-    * **TikTok:** https://www.tiktok.com/@scribette.app
+* **Facebook:** https://www.facebook.com/profile.php?id=61569466052409
+* **Instagram:** https://www.instagram.com/scribette.apponline/
+* **TikTok:** https://www.tiktok.com/@scribette.app
 
 Priorizamos la comunicación a través de WhatsApp para la resolución de dudas e inquietudes relacionadas con la privacidad y protección de datos, dada su eficiencia y accesibilidad. No obstante, estamos disponibles a través de todos los canales mencionados para atender sus requerimientos de la manera más oportuna y eficaz posible.
 
@@ -80,11 +80,11 @@ La funcionalidad principal de Scribette reside en la creación de notas y apunte
 
 La funcionalidad "I am a content creator" permite a los usuarios que se identifican como creadores de contenido compartir información sobre su perfil y alcance con Scribette.  El contenido generado al pulsar este botón se almacena de manera permanente y no es susceptible de borrado por el usuario a través de la interfaz de la aplicación.  La información que se recopila a través de esta funcionalidad incluye:
 
-    * **Nombre (o Nombre Artístico):**  El nombre que el creador de contenido desea que se asocie a su perfil público en Scribette.
-    * **Correo Electrónico:**  Una dirección de correo electrónico de contacto para comunicaciones relacionadas con posibles colaboraciones o oportunidades con Scribette.
-    * **Redes Sociales y Enlaces:**  Enlaces a los perfiles de redes sociales del creador de contenido (Facebook, Instagram, TikTok, YouTube, etc.) y cualquier otro enlace relevante a su presencia en línea.
-    * **Descripción del Contenido:**  Una breve descripción del tipo de contenido que crea el usuario y su área de especialización.
-    * **Alcance (Estimado):**  Una estimación del alcance de su audiencia o seguidores en las redes sociales o plataformas donde publica su contenido.
+ * **Nombre (o Nombre Artístico):**  El nombre que el creador de contenido desea que se asocie a su perfil público en Scribette.
+ * **Correo Electrónico:**  Una dirección de correo electrónico de contacto para comunicaciones relacionadas con posibles colaboraciones o oportunidades con Scribette.
+ * **Redes Sociales y Enlaces:**  Enlaces a los perfiles de redes sociales del creador de contenido (Facebook, Instagram, TikTok, YouTube, etc.) y cualquier otro enlace relevante a su presencia en línea.
+ * **Descripción del Contenido:**  Una breve descripción del tipo de contenido que crea el usuario y su área de especialización.
+ * **Alcance (Estimado):**  Una estimación del alcance de su audiencia o seguidores en las redes sociales o plataformas donde publica su contenido.
 
     La información recopilada a través de "I am a content creator" se almacena en una tabla específica en nuestra base de datos de Supabase, con controles de acceso basados en RLS (Row Level Security) para garantizar que solo personal autorizado de Scribette tenga acceso a esta información.  El propósito de esta funcionalidad es crear una base de datos de creadores de contenido que estén interesados en colaborar con Scribette en el futuro.  Podemos utilizar esta información para contactar a los creadores de contenido y proponerles colaboraciones, alianzas o participación en iniciativas de marketing o promoción.
 
@@ -94,8 +94,8 @@ La funcionalidad "I am a content creator" permite a los usuarios que se identifi
 
 Para mejorar la calidad de los resultados generados por nuestra inteligencia artificial y personalizar su experiencia en Scribette, recopilamos un parámetro denominado "perfil y contexto".  Este parámetro se compone de las preferencias que usted especifica al crear una nota, quizz, flashcard u otro elemento dentro de la aplicación.
 
-    * **Campo de Texto "Preferencias":**  Al crear una nota, quizz, flashcard u otro elemento, se le presenta un campo de texto denominado "preferencias" donde puede ingresar información adicional o instrucciones específicas que desea que la inteligencia artificial tenga en cuenta al procesar su solicitud.  Este campo tiene un límite de caracteres, que es lo suficientemente amplio para permitirle expresar sus preferencias de manera general y concisa.  El contenido de este campo de texto se considera parte de sus "preferencias y contexto".
-    * **Contexto Derivado del Uso:**  Además de las preferencias que usted proporciona explícitamente, nuestra inteligencia artificial también puede inferir ciertas preferencias y contexto a partir de su uso de la aplicación, como el tipo de notas que crea con mayor frecuencia, las etiquetas que utiliza, los temas que aborda, etc.  Esta información se utiliza de forma anonimizada y agregada para mejorar nuestros modelos de inteligencia artificial y ofrecerle resultados más relevantes y personalizados en el futuro.
+* **Campo de Texto "Preferencias":**  Al crear una nota, quizz, flashcard u otro elemento, se le presenta un campo de texto denominado "preferencias" donde puede ingresar información adicional o instrucciones específicas que desea que la inteligencia artificial tenga en cuenta al procesar su solicitud.  Este campo tiene un límite de caracteres, que es lo suficientemente amplio para permitirle expresar sus preferencias de manera general y concisa.  El contenido de este campo de texto se considera parte de sus "preferencias y contexto".
+* **Contexto Derivado del Uso:**  Además de las preferencias que usted proporciona explícitamente, nuestra inteligencia artificial también puede inferir ciertas preferencias y contexto a partir de su uso de la aplicación, como el tipo de notas que crea con mayor frecuencia, las etiquetas que utiliza, los temas que aborda, etc.  Esta información se utiliza de forma anonimizada y agregada para mejorar nuestros modelos de inteligencia artificial y ofrecerle resultados más relevantes y personalizados en el futuro.
 
     Las preferencias y el contexto que usted proporciona se transmiten a nuestros modelos de inteligencia artificial de terceros (actualmente Gemini AI de Google) al momento de procesar su solicitud.  Esta información se utiliza para optimizar el output generado por la inteligencia artificial y mejorar la precisión de las transcripciones, el etiquetado automático, la detección de fechas y otros aspectos de la experiencia del usuario.
 
@@ -103,9 +103,9 @@ Para mejorar la calidad de los resultados generados por nuestra inteligencia art
 
 Scribette puede incluir funcionalidades de chatbot o asistencia virtual para interactuar con los usuarios, responder preguntas, proporcionar soporte técnico y guiarles en el uso de la aplicación.  En este contexto, almacenamos el historial de conversaciones mantenidas con el chatbot, incluyendo:
 
-    * **Contenido de las Conversaciones:**  Se guarda el texto completo de las conversaciones entre usted y el chatbot, tanto los mensajes que usted envía como las respuestas generadas por el chatbot.
-    * **Marcas de Tiempo:**  Se registra la hora exacta en que cada mensaje fue enviado, tanto por usted como por el chatbot.
-    * **Identificador de Usuario:**  Se asocia cada mensaje del historial de conversaciones con su identificador de usuario único.
+* **Contenido de las Conversaciones:**  Se guarda el texto completo de las conversaciones entre usted y el chatbot, tanto los mensajes que usted envía como las respuestas generadas por el chatbot.
+* **Marcas de Tiempo:**  Se registra la hora exacta en que cada mensaje fue enviado, tanto por usted como por el chatbot.
+* **Identificador de Usuario:**  Se asocia cada mensaje del historial de conversaciones con su identificador de usuario único.
 
     El historial de conversaciones se almacena con el propósito de optimizar y mejorar el servicio de chatbot, analizar patrones de consulta y preguntas frecuentes, identificar áreas de mejora en la asistencia virtual y, en general, mejorar la calidad del soporte al usuario.  Estos datos **no se comparten con terceros** y se utilizan únicamente para fines internos de mejora del servicio de Scribette.
 
@@ -118,16 +118,16 @@ Scribette puede incluir funcionalidades de chatbot o asistencia virtual para int
 Para asegurar la sostenibilidad económica de Scribette y mejorar la gestión interna de nuestros recursos, recopilamos ciertos datos anónimos y métricas de uso de la aplicación.  Estos datos se utilizan de forma agregada y anonimizada, sin que sea posible identificar a usuarios individuales a partir de ellos.
 
 * **Métricas de Uso Anónimas:**  Recopilamos métricas de uso generales de la aplicación, como:
-    * **Frecuencia de Uso de Funcionalidades:**  La frecuencia con la que se utilizan las diferentes funcionalidades de la aplicación (creación de notas, quizzes, flashcards, chatbot, etc.).
-    * **Tiempo de Uso de la Aplicación:**  El tiempo promedio que los usuarios pasan utilizando la aplicación en diferentes periodos de tiempo (diario, semanal, mensual).
-    * **Tipos de Contenido Generado:**  La proporción de notas, quizzes, flashcards y otros tipos de contenido que se generan en la aplicación.
-    * **Tasa de Finalización de Tareas:**  La tasa de éxito en la finalización de tareas o flujos de trabajo dentro de la aplicación.
-    * **Errores y Excepciones:**  Información sobre errores técnicos o excepciones que se producen durante el uso de la aplicación, con el fin de identificar y corregir problemas de funcionamiento.
+* **Frecuencia de Uso de Funcionalidades:**  La frecuencia con la que se utilizan las diferentes funcionalidades de la aplicación (creación de notas, quizzes, flashcards, chatbot, etc.).
+* **Tiempo de Uso de la Aplicación:**  El tiempo promedio que los usuarios pasan utilizando la aplicación en diferentes periodos de tiempo (diario, semanal, mensual).
+* **Tipos de Contenido Generado:**  La proporción de notas, quizzes, flashcards y otros tipos de contenido que se generan en la aplicación.
+* **Tasa de Finalización de Tareas:**  La tasa de éxito en la finalización de tareas o flujos de trabajo dentro de la aplicación.
+* **Errores y Excepciones:**  Información sobre errores técnicos o excepciones que se producen durante el uso de la aplicación, con el fin de identificar y corregir problemas de funcionamiento.
 
 * **Datos de Contabilidad Interna:**  Para fines de contabilidad interna y gestión de gastos y ganancias, recopilamos los siguientes datos:
-    * **Anuncios Visualizados:**  Información sobre los anuncios publicitarios que se muestran a los usuarios dentro de la aplicación (en caso de que Scribette implemente publicidad en el futuro).  Registramos qué anuncios se visualizan, con qué frecuencia y durante cuánto tiempo.
-    * **Estimación de Ganancias Publicitarias:**  A partir de los anuncios visualizados, se genera una estimación de las ganancias publicitarias generadas por la aplicación.
-    * **Costos de Uso de Inteligencia Artificial:**  Realizamos un seguimiento del uso de los servicios de inteligencia artificial de terceros (como Gemini AI) para calcular los costos asociados a la prestación de nuestros servicios.  Esto incluye el volumen de solicitudes procesadas, el tiempo de procesamiento y otros parámetros relevantes para la facturación de los servicios de IA.
+* **Anuncios Visualizados:**  Información sobre los anuncios publicitarios que se muestran a los usuarios dentro de la aplicación (en caso de que Scribette implemente publicidad en el futuro).  Registramos qué anuncios se visualizan, con qué frecuencia y durante cuánto tiempo.
+* **Estimación de Ganancias Publicitarias:**  A partir de los anuncios visualizados, se genera una estimación de las ganancias publicitarias generadas por la aplicación.
+* **Costos de Uso de Inteligencia Artificial:**  Realizamos un seguimiento del uso de los servicios de inteligencia artificial de terceros (como Gemini AI) para calcular los costos asociados a la prestación de nuestros servicios.  Esto incluye el volumen de solicitudes procesadas, el tiempo de procesamiento y otros parámetros relevantes para la facturación de los servicios de IA.
 
     Para la recopilación y análisis de estas métricas, utilizamos los servicios de Logs & Analytics proporcionados por Supabase, nuestra plataforma de backend.  Estos servicios nos permiten monitorizar el rendimiento de la aplicación, identificar tendencias de uso, detectar posibles problemas y optimizar la asignación de recursos.  Las métricas de uso se guardan de forma indefinida, ya que son necesarias para la contabilidad a largo plazo y la planificación estratégica de Scribette.
 
@@ -242,7 +242,7 @@ Si usted se opone al tratamiento de sus datos personales, dejaremos de tratar di
 
 Si considera que el tratamiento de sus datos personales por parte de Scribette S.A.S. infringe la normativa de protección de datos, tiene derecho a presentar una reclamación ante la Superintendencia de Industria y Comercio (SIC), que es la autoridad de control en materia de protección de datos en Colombia.
 
-Puede obtener más información sobre cómo presentar una reclamación ante la SIC en su página web oficial: [Enlace a la página web de la SIC].
+Puede obtener más información sobre cómo presentar una reclamación ante la SIC en su página web oficial: https://sedeelectronica.sic.gov.co
 
 **4.6. Ejercicio de los Derechos y Canales de Comunicación:**
 
@@ -250,7 +250,7 @@ Para ejercer cualquiera de los derechos mencionados anteriormente, puede contact
 
 * **Correo Electrónico:** scribette.app@gmail.com
 * **Número de Teléfono (WhatsApp):** +57 317 1748056
-* **Dirección Postal:** [Dirección física completa de la sede en Manizales]
+* **Codigo Zip:** 170006
 
 Responderemos a su solicitud en el plazo legal establecido y le proporcionaremos la información solicitada o llevaremos a cabo las acciones necesarias para atender su solicitud, de acuerdo con la normativa vigente.
 
