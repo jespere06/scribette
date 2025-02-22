@@ -2,7 +2,7 @@
 
 **Preámbulo: Compromiso con la Privacidad del Usuario y Protección de Datos Personales**
 
-En Scribette S.A.S., constituida y operando bajo las leyes de la República de Colombia, reconocemos y valoramos profundamente la importancia de la privacidad de nuestros usuarios. Esta Política de Privacidad extendida ha sido meticulosamente elaborada para proporcionar una transparencia exhaustiva y detallada sobre nuestras prácticas en la recopilación, uso, almacenamiento, procesamiento y protección de sus datos personales. Nos comprometemos a operar con los más altos estándares de ética y responsabilidad en el manejo de la información, asegurando el cumplimiento riguroso de la legislación colombiana vigente en materia de protección de datos personales, incluyendo, pero no limitándose a, la Ley Estatutaria 1581 de 2012 y sus decretos reglamentarios, así como cualquier otra normativa que la complemente, modifique o reemplace.
+En Scribette S.A.S., constituida y operando bajo las leyes de la República de Colombia, reconocemos y valoramos profundamente la importancia de la privacidad de nuestros usuarios. Esta Política de Privacidad ha sido meticulosamente elaborada para proporcionar una transparencia exhaustiva y detallada sobre nuestras prácticas en la recopilación, uso, almacenamiento, procesamiento y protección de sus datos personales. Nos comprometemos a operar con los más altos estándares de ética y responsabilidad en el manejo de la información, asegurando el cumplimiento riguroso de la legislación colombiana vigente en materia de protección de datos personales, incluyendo, pero no limitándose a, la Ley Estatutaria 1581 de 2012 y sus decretos reglamentarios, así como cualquier otra normativa que la complemente, modifique o reemplace.
 
 Esta política, de carácter formal y con un tono serio y profesional, está diseñada para ser comprensible y accesible a todos nuestros usuarios, independientemente de su nivel de familiaridad con los aspectos legales o técnicos relacionados con la privacidad de datos.  Entendemos que la confianza es fundamental en nuestra relación con usted, y por ello, nos esforzamos por mantener una comunicación clara y abierta sobre cómo gestionamos su información personal.
 
@@ -25,15 +25,15 @@ Para cualquier consulta, inquietud o solicitud relacionada con esta Política de
 
 Priorizamos la comunicación a través de WhatsApp para la resolución de dudas e inquietudes relacionadas con la privacidad y protección de datos, dada su eficiencia y accesibilidad. No obstante, estamos disponibles a través de todos los canales mencionados para atender sus requerimientos de la manera más oportuna y eficaz posible.
 
-**1.2. Objetivo Fundamental de esta Política de Privacidad Extendida**
+**1.2. Objetivo Fundamental de esta Política de Privacidad**
 
-El objetivo primordial de esta Política de Privacidad extendida es informar de manera exhaustiva y transparente a usted, el usuario de nuestras plataformas, sobre todos los aspectos relevantes relacionados con la recopilación, el uso, el almacenamiento, el procesamiento, la protección y la eliminación de sus datos personales.  Buscamos establecer una relación de confianza basada en la claridad y la honestidad, proporcionándole un conocimiento detallado de cómo manejamos su información desde el momento en que inicia sesión en nuestra aplicación, sitio web o cualquier otra plataforma que ofrezcamos.
+El objetivo primordial de esta Política de Privacidad es informar de manera exhaustiva y transparente a usted, el usuario de nuestras plataformas, sobre todos los aspectos relevantes relacionados con la recopilación, el uso, el almacenamiento, el procesamiento, la protección y la eliminación de sus datos personales.  Buscamos establecer una relación de confianza basada en la claridad y la honestidad, proporcionándole un conocimiento detallado de cómo manejamos su información desde el momento en que inicia sesión en nuestra aplicación, sitio web o cualquier otra plataforma que ofrezcamos.
 
 Entendemos que la privacidad es un derecho fundamental y nos comprometemos a protegerlo con la máxima diligencia y responsabilidad. Esta política no solo cumple con los requisitos legales aplicables, sino que también refleja nuestro compromiso ético con la protección de sus datos y el respeto a su privacidad.
 
 **1.3. Ámbito de Aplicación y Definición de Usuario**
 
-Esta Política de Privacidad extendida se aplica de manera uniforme a todos los usuarios que interactúan con la aplicación móvil de Scribette, nuestro sitio web oficial y cualquier otra plataforma digital que Scribette S.A.S. decida habilitar en el futuro para la prestación de sus servicios y la interacción con los usuarios.
+Esta Política de Privacidad se aplica de manera uniforme a todos los usuarios que interactúan con la aplicación móvil de Scribette, nuestro sitio web oficial y cualquier otra plataforma digital que Scribette S.A.S. decida habilitar en el futuro para la prestación de sus servicios y la interacción con los usuarios.
 
 A los efectos de esta política, se considera "usuario" a toda persona natural que inicie sesión en cualquiera de nuestras plataformas, independientemente del método de autenticación utilizado (correo electrónico, Google, Apple ID, Discord u otros).  No se establecen categorías o clasificaciones diferenciadas de usuarios en términos de privacidad o tratamiento de datos. Todos los usuarios son tratados con el mismo nivel de respeto y protección en relación con sus datos personales. La gestión y administración de usuarios se realiza de manera centralizada a través de nuestro backend, asegurando la uniformidad en la aplicación de esta política.
 
@@ -296,17 +296,17 @@ En particular, las transferencias internacionales de datos pueden producirse en 
 
 En caso de que se produzcan transferencias internacionales de datos personales, Scribette S.A.S. se compromete a garantizar que dichas transferencias se realicen de conformidad con la legislación colombiana en materia de protección de datos y con los estándares internacionales de protección de datos.  En particular, nos aseguraremos de que las transferencias internacionales de datos se realicen a países que ofrezcan un nivel de protección de datos adecuado, o que se implementen garantías adecuadas para proteger los datos personales, como la firma de cláusulas contractuales tipo aprobadas por la autoridad de control, la adhesión a mecanismos de certificación o la adopción de normas corporativas vinculantes.
 
-**6.3. Modificaciones a la Política de Privacidad Extendida**
+**6.3. Modificaciones a la Política de Privacidad**
 
-Scribette S.A.S. se reserva el derecho de modificar la presente Política de Privacidad extendida en cualquier momento, sin limitación a la fecha de vigencia, en función de las necesidades operativas, los cambios en la legislación aplicable, las recomendaciones de las autoridades de control en materia de protección de datos, o las mejores prácticas en materia de privacidad.
+Scribette S.A.S. se reserva el derecho de modificar la presente Política de Privacidad en cualquier momento, sin limitación a la fecha de vigencia, en función de las necesidades operativas, los cambios en la legislación aplicable, las recomendaciones de las autoridades de control en materia de protección de datos, o las mejores prácticas en materia de privacidad.
 
 Cualquier modificación sustancial de esta Política de Privacidad será comunicada a los usuarios de forma oportuna y transparente, ya sea mediante la publicación de la versión actualizada de la política en nuestras plataformas (aplicación móvil, sitio web, etc.), mediante el envío de notificaciones a través de correo electrónico o dentro de la propia aplicación, o mediante cualquier otro medio de comunicación que consideremos adecuado.
 
-Le recomendamos revisar periódicamente esta Política de Privacidad extendida para estar informado de cualquier modificación o actualización.  El uso continuado de la aplicación Scribette, del sitio web o de cualquier otra plataforma de Scribette S.A.S. tras la publicación de una versión modificada de esta política implicará su aceptación de los cambios realizados.
+Le recomendamos revisar periódicamente esta Política de Privacidad para estar informado de cualquier modificación o actualización.  El uso continuado de la aplicación Scribette, del sitio web o de cualquier otra plataforma de Scribette S.A.S. tras la publicación de una versión modificada de esta política implicará su aceptación de los cambios realizados.
 
 **Glosario de Términos Relevantes**
 
-Para facilitar la comprensión de esta Política de Privacidad extendida, incluimos a continuación un glosario de términos relevantes utilizados en el documento:
+Para facilitar la comprensión de esta Política de Privacidad, incluimos a continuación un glosario de términos relevantes utilizados en el documento:
 
 * **Datos Personales:**  Cualquier información vinculada o que pueda asociarse a una o varias personas naturales determinadas o determinables.
 * **Tratamiento de Datos Personales:**  Cualquier operación o conjunto de operaciones sobre datos personales, tales como la recolección, almacenamiento, uso, circulación o supresión.
@@ -326,7 +326,7 @@ Para facilitar la comprensión de esta Política de Privacidad extendida, inclui
 
 **Contacto para Consultas y Solicitudes**
 
-Si tiene alguna pregunta, inquietud o solicitud relacionada con esta Política de Privacidad extendida o con el tratamiento de sus datos personales, no dude en contactarnos a través de los siguientes medios:
+Si tiene alguna pregunta, inquietud o solicitud relacionada con esta Política de Privacidad o con el tratamiento de sus datos personales, no dude en contactarnos a través de los siguientes medios:
 
 * **Correo Electrónico:** scribette.app@gmail.com
 * **Número de Teléfono (WhatsApp):** +57 317 1748056
