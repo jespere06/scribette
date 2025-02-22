@@ -18,11 +18,10 @@ Para cualquier consulta, inquietud o solicitud relacionada con esta Política de
 
 * **Correo Electrónico:** scribette.app@gmail.com
 * **Número de Teléfono (WhatsApp):** +57 317 1748056
-* **Dirección Postal:** [Dirección física completa de la sede en Manizales]
 * **Redes Sociales:**
-    * **Facebook:** [Enlace a la página de Facebook de Scribette]
-    * **Instagram:** [Enlace a la página de Instagram de Scribette]
-    * **TikTok:** [Enlace al perfil de TikTok de Scribette]
+    * **Facebook:** https://www.facebook.com/profile.php?id=61569466052409
+    * **Instagram:** https://www.instagram.com/scribette.apponline/
+    * **TikTok:** https://www.tiktok.com/@scribette.app
 
 Priorizamos la comunicación a través de WhatsApp para la resolución de dudas e inquietudes relacionadas con la privacidad y protección de datos, dada su eficiencia y accesibilidad. No obstante, estamos disponibles a través de todos los canales mencionados para atender sus requerimientos de la manera más oportuna y eficaz posible.
 
@@ -331,8 +330,7 @@ Si tiene alguna pregunta, inquietud o solicitud relacionada con esta Política d
 
 * **Correo Electrónico:** scribette.app@gmail.com
 * **Número de Teléfono (WhatsApp):** +57 317 1748056
-* **Dirección Postal:** [Dirección física completa de la sede en Manizales]
 
 Agradecemos su confianza en Scribette S.A.S. y reiteramos nuestro compromiso con la protección de su privacidad y la seguridad de sus datos personales.
 
-**Fecha de la última actualización: [Fecha]**
+**Fecha de la última actualización: 22/02/2025**
